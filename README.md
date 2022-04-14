@@ -1,3 +1,5 @@
+[![Practice CI with GitHub Actions using Ant and JUnit | © 2022 by hiuhihi78](https://github.com/hiuhihi78/math-util/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/hiuhihi78/math-util/actions/workflows/math-util-ci.yml)
+
 ## Welcome to Math-Util Repository
 
 ### You will find in this repo the follwing stuff:
